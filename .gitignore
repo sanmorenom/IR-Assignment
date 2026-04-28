@@ -1,5 +1,7 @@
 __pycache__/
 *.pyc
+*.py[codz]
+*$py.class
 .pytest_cache/
 *.pth
 *.pt
